@@ -5,4 +5,4 @@ El repositorio incluye lo siguiente:
 
 - C1: Códigos de controles 1, funciones recursivas
 - C2: Códigos de controles 2, listas recursivas y árboles de búsqueda binaria
-- C3: Códigos de controles 3, manejo de archivos en python, clases y objetos de python, diccionarios, estructuras mutables
+- C3: Códigos de controles 3, clases y objetos de python, manejo de archivos en python, diccionarios, estructuras mutables

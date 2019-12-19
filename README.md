@@ -1,5 +1,5 @@
 # Introduction-to-Programming-uchile
-Repositorio que reune las soluciones a varios controles del curso de Introduccion a la programación, además, se incluyen las soluciones de problemas propuestos en clases. Todo el código está desarrollado en python.
+Repositorio que reúne las soluciones a varios controles del curso de Introducción a la programación, además, se incluyen las soluciones de problemas propuestos en clases. Todo el código está desarrollado en python.
 
 El repositorio incluye lo siguiente:
 

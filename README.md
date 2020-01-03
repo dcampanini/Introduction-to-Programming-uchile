@@ -3,6 +3,6 @@ Repositorio que reúne las soluciones a varios controles del curso de CC1002 Int
 
 El repositorio incluye lo siguiente:
 
-- C1: Códigos de controles 1, funciones recursivas
-- C2: Códigos de controles 2, listas recursivas y árboles de búsqueda binaria
-- C3: Códigos de controles 3, clases y objetos de python, manejo de archivos en python, diccionarios, estructuras mutables
+- C1: Códigos de controles 1, funciones recursivas.
+- C2: Códigos de controles 2, listas recursivas y árboles de búsqueda binaria.
+- C3: Códigos de controles 3, clases y objetos de python, manejo de archivos en python, diccionarios, estructuras mutables.
